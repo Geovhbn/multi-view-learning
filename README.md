@@ -28,6 +28,26 @@ Resources on multi-view learning (MVL).
 1. **Volumetric and multi-view cnns for object classification on 3d data** 
    - *Qi, Charles R., et al.* 2016.
    
+## Multimodal Deep Learning
+1. **Multimodal deep learning**
+   - *Ngiam, Jiquan, et al.* ICML 2011.
+   - [paper](http://ai.stanford.edu/~ang/papers/icml11-MultimodalDeepLearning.pdf)
+   
+1. **Multimodal learning with deep boltzmann machines**
+   - *Srivastava, Nitish, and Ruslan R. Salakhutdinov* NIPS 2012
+   - [paper](http://120.52.51.18/www.cs.toronto.edu/~rsalakhu/papers/Multimodal_DBM.pdf)
+
+1. **Deep multimodal learning: A survey on recent advances and trends**
+   - *Ramachandram, Dhanesh, and Graham W. Taylor* 2017.   
+
+ 
+## Brain Image
+1. **Deep Learning Approaches to Unimodal and Multimodal Analysis of Brain Imaging Data With Applications to Mental Illness**
+   - *Calhoun, Vince, and Sergey Plis* 2018.
+   
+1. **Multimodal neuroimaging feature learning with multimodal stacked deep polynomial networks for diagnosis of Alzheimer's disease**
+   - *Shi, Jun, et al.* 2018.
+   
 ## Tutorial
 1. **Multiview Feature Learning Tutorial**  *@ CVPR 2012*
    - [Tutorial link](http://www.cs.toronto.edu/~rfm/multiview-feature-learning-cvpr/)
