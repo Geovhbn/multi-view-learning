@@ -1,6 +1,6 @@
 # multi-view learning
 Resources on multi-view learning (MVL).
-This web have been merged to the [new web](https://github.com/largeapp/Brain-Image-Analysis#Multiview-learning)
+This web have been merged to the [new web](https://github.com/largeapp/Brain-Image-Analysis#Multiview-learning).
 
 ## Survey
 1. **A Survey on Multi-view Learning**
