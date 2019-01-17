@@ -1,7 +1,7 @@
 # multi-view learning
 Resources on multi-view learning (MVL).
 
-## Survey Paper
+## Survey
 1. **A Survey on Multi-view Learning**
    - *Chang Xu, Dacheng Tao, Chao Xu* 2013
    - [Paper](https://arxiv.org/pdf/1304.5634.pdf)
@@ -9,6 +9,14 @@ Resources on multi-view learning (MVL).
 1. **Multi-view learning overview: Recent progress and new challenges**
    - *Jing Zhao,Xijiong Xie, Xin Xu, Shiliang Sun* 2017
    - [Paper](https://www.sciencedirect.com/science/article/pii/S1566253516302032)
+   
+## Tutorial
+1. **Multiview Feature Learning Tutorial**  *@ CVPR 2012*
+   - [Tutorial link](http://www.cs.toronto.edu/~rfm/multiview-feature-learning-cvpr/)
+   
+1. **Multiview Feature Learning** *@ IPAM 2012*
+   - [Tutorial link](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10790.pdf)
+   
    
 ## MVL with Deep Learning
 1. **On deep multi-view representation learning**
@@ -52,12 +60,7 @@ Resources on multi-view learning (MVL).
     - *Liu L , Wang Q , Adeli E , et al.* 2018.
     - Discussed in lab meeting (LJ Cao).
    
-## Tutorial
-1. **Multiview Feature Learning Tutorial**  *@ CVPR 2012*
-   - [Tutorial link](http://www.cs.toronto.edu/~rfm/multiview-feature-learning-cvpr/)
-   
-1. **Multiview Feature Learning** *@ IPAM 2012*
-   - [Tutorial link](http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10790.pdf)
+
    
    
 
