@@ -48,6 +48,10 @@ Resources on multi-view learning (MVL).
 1. **Multimodal neuroimaging feature learning with multimodal stacked deep polynomial networks for diagnosis of Alzheimer's disease**
    - *Shi, Jun, et al.* 2018.
    
+1.  **Exploring diagnosis and imaging biomarkers of Parkinson's disease via iterative canonical correlation analysis based feature selection**
+    - *Liu L , Wang Q , Adeli E , et al.* 2018.
+    - Discussed in lab meeting (LJ Cao).
+   
 ## Tutorial
 1. **Multiview Feature Learning Tutorial**  *@ CVPR 2012*
    - [Tutorial link](http://www.cs.toronto.edu/~rfm/multiview-feature-learning-cvpr/)
